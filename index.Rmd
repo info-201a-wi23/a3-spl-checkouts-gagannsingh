@@ -23,8 +23,13 @@ Feel free to calculate and report values that you find relevant.
 ### The Dataset
 
 - Who collected/published the data?  
+  The Seattle Public Library collected and published the data to the City of Seattle.
+  
 - What are the parameters of the data (dates, number of checkouts, kinds of books, etc.)?
+  The parameters are UsageClass, CheckoutType, MaterialType, CheckoutYear, CheckoutMonth, Checkouts, Title, ISBN, Creator, Subjects, Publisher, PublicationYear
+  
 - How was the data collected or generated?  
+  
 - Why was the data collected?  
 - What, if any, ethical questions do you need to consider when working with this data?  
 - What are possible limitations or problems with this data?   (at least 200 words)
